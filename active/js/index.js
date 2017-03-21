@@ -70,9 +70,9 @@
 	    },
 
 	    mounted:function(){
-	        tips = document.getElementById('tips');
+	        //tips = document.getElementById('tips');
 	        btn = document.getElementById('btn');
-	        tips.style.display = 'none';
+	       // tips.style.display = 'none';
 	        btn.style.display = 'none'
 	    },
 
@@ -97,10 +97,10 @@
 	    watch:{
 	        currentView:function(){
 	            if(this.currentView == 'page1'){
-	                tips.style.display = 'none';
+	               // tips.style.display = 'none';
 	                btn.style.display = 'none'
 	            } else {
-	                tips.style.display = 'block';
+	                //tips.style.display = 'block';
 	                btn.style.display = 'block'
 	            }
 	        }
