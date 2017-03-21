@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2017我们在一起</title>
+    <meta name="sharecontent" data-msg-title="" data-msg-content=""  data-line-title="" data-line-callBack=""/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+</head>
+<body>
+    <div style="display: none">    
+    	<img src="img/wx.png"  alt="">
+    </div>
+    <div class="wrapper" id='app'>
+        <div class="top"></div>
+        <component v-bind:name="name" v-bind:is="currentView" v-on:generate="generate">
+        </component>
+        <div class="btn outside_btn" v-on:click="again" id="btn">
+                  <p>再来一发</p>
+                  <p>每发都有不一样的小故事哦</p>
+        </div>
+        <div class="tips" id="tips">
+                    长按可保存图片
+           
+        </div>
+        <div class="footer">
+        	<a href="http://a.app.qq.com/o/simple.jsp?pkgname=com.famulei.famulei"><img src="img/logo.png"/></a>
+            <span>{{btmText}}</span>
+        </div>
+    </div>
+</body>
+	<script src="js/rem.js"></script>
+	<script src="js/vue.js"></script>
+	<script src="js/index.js"></script>
+</html>
+
