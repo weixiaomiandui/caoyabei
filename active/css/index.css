@@ -221,6 +221,7 @@ body {
 	box-shadow: 0 .1rem 0 #da5800;
 }
 .btn1{
+	margin-left: 1%;
 	background: url(../img/a.png) no-repeat;
 	background-size: 100% 100%;
 }
@@ -230,7 +231,7 @@ body {
 	background-size: 100% 100%;
 }
 .btn3{
-	margin-left: 5%;
+	margin-left: 4%;
 	background: url(../img/c.png) no-repeat;
 	background-size: 100% 100%;
 }
