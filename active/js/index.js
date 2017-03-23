@@ -152,7 +152,7 @@
 /* 3 */
 /***/ function(module, exports) {
 
-	module.exports = "<div class=\"content page1\">\r\n    <div class=\"content_top\"></div>\r\n\r\n    <i class=\"logo\"></i>\r\n    <div class=\"input\">\r\n        <input type=\"text\" placeholder=\"输 入 你 的 名 字\" v-model=\"inputName\" maxlength=\"6\">\r\n    </div>\r\n    <div class=\"btn inside_btn\" v-on:click=\"generate(1)\">\r\n        A库生成\r\n    </div>\r\n <div class=\"btn inside_btn\" v-on:click=\"generate(2)\">\r\n        B库生成\r\n    </div>\r\n</div>\r\n";
+	module.exports = "<div class=\"content page1\">\r\n    <div class=\"content_top\"></div>\r\n\r\n    <i class=\"logo\"></i>\r\n  <div class=\"input\">\r\n        <input type=\"text\" placeholder=\"输 入 你 的 名 字\" v-model=\"inputName\" maxlength=\"6\">\r\n    </div>\r\n<p class=\"font-p\">选择我要生成的电竞/直播故事</p>   \r\n  <div class=\"butt3 clear\"> \r\n  <div class=\"btn1 inside_btn\" v-on:click=\"generate(1)\">\r\n        \r\n    </div>\r\n <div class=\"btn2 inside_btn\" v-on:click=\"generate(2)\">\r\n        \r\n    </div>\r\n <div class=\"btn3 inside_btn\" v-on:click=\"generate(3)\">\r\n        \r\n    </div>\r\n<div> \r\n </div>\r\n";
 
 /***/ },
 /* 4 */
@@ -234,7 +234,7 @@
 		        img.onload = function(){
 		            setNames(that.name, '1'+num, canvas, img, QR);
 		        };
-	    	}else{
+	    	}else if(current==2){
 	    		var num = getRandom(15) + 1;
 		        //var num = 1
 		        var that = this;
@@ -242,6 +242,17 @@
 		        var img = document.getElementById("contentImg");
 		        var QR = document.getElementById("QRSrc");
 		        this.imgSrc = './img2/' + num + '.png';
+		        img.onload = function(){
+		            setNames(that.name, '2'+num, canvas, img, QR);
+		        };
+	    	}else{
+	    		var num = getRandom(15) + 1;
+		        //var num = 1
+		        var that = this;
+		        var canvas = document.getElementById('canvas');
+		        var img = document.getElementById("contentImg");
+		        var QR = document.getElementById("QRSrc");
+		        this.imgSrc = './img3/' + num + '.png';
 		        img.onload = function(){
 		            setNames(that.name, '2'+num, canvas, img, QR);
 		        };
@@ -270,12 +281,12 @@
 		        },
 		        {
 		            size: 40,
-		            width: 50,
+		            width: 150,
 		            height: 400
 		        },
 		        {
 		            size: 40,
-		            width: 80,
+		            width: 180,
 		            height: 510
 		        },
 		    ],

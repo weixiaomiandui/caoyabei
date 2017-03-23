@@ -108,7 +108,8 @@ em {
 body {
 	font-family: "Microsoft YaHei";
 }
-
+.clear { zoom:1;}
+.clear:after { content:''; display:block; clear:both; }
 .wrapper {
 	background: #121214;
 	background-size: 100% 100%;
@@ -130,7 +131,7 @@ body {
 .content .content_top {
 	box-sizing: border-box;
 	width: 100%;
-	height: .7rem;
+	height: .3rem;
 	padding-left: .2rem;
 }
 
@@ -154,18 +155,19 @@ body {
 
 .content .logo {
 	display: block;
-	margin: .35rem auto auto;
-	height: 33%;
-	width: 85%;
-	background: url(../img/all.png);
+	margin: .1rem auto auto;
+	height: 50%;
+	width: 80%;
+	background: url(../img/top.png);
 	background-size: 100% 100%;
 }
 
 .content .input {
-	width: 85%;
+	width: 80%;
 	height: .9rem;
-	margin: .8rem auto auto;
-	border: 1px solid #ffb238;
+	margin: .4rem auto auto;
+	/*border: 1px solid #ffb238;*/
+	
 }
 
 .content .input input {
@@ -177,21 +179,29 @@ body {
 	color: #383838;
 	height: 100%;
 	width: 100%;
+	border: 1px solid #0f0f11;
+	border-radius: .3rem;
 }
 
 .btn,.tips {
 	color: #fff;
 	text-align: center;
 }
-
+.content .butt3{
+	margin-top: .2rem;
+}
+.font-p{
+	margin-top: .3rem;
+	font-size: .3rem;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
 .content .inside_btn {
 	float: left;
-	margin-left: 10%;
-	width: 35%;
-	height: .94rem;
-	margin-top: .8rem;
+	width: 30%;
+	height: 1.94rem;
 	font-size: .35rem;
-	line-height: .94rem;
 }
 
 .tips {
@@ -210,7 +220,20 @@ body {
 	background: #f23333;
 	box-shadow: 0 .1rem 0 #da5800;
 }
-
+.btn1{
+	background: url(../img/a.png) no-repeat;
+	background-size: 100% 100%;
+}
+.btn2{
+	margin-left: 5%;
+	background: url(../img/b.png) no-repeat;
+	background-size: 100% 100%;
+}
+.btn3{
+	margin-left: 5%;
+	background: url(../img/c.png) no-repeat;
+	background-size: 100% 100%;
+}
 .btn:active {
 	box-shadow: 0 .1rem 0 #e23030;
 }
@@ -227,8 +250,8 @@ body {
 	font-size: .2rem;
 }
 .page1 {
-	height: 8.2rem;
-	width: 80%;
+	height: 7.2rem;
+	width: 90%;
 }
 .cont{
 	margin: auto;
@@ -236,9 +259,6 @@ body {
 	height: 9.5rem;
 	background: url(../img/bg2.png) no-repeat;
 	background-size: 100% 100%;
-}
-.contbg1{
-	
 }
 .page2 {
 	padding-top: .4rem;
@@ -322,12 +342,9 @@ body {
 }
 
 .footer {
-<<<<<<< HEAD
 	margin-top: .35rem;
-=======
-	padding-top: .35rem;
->>>>>>> eb63ab00aa80a903d1307f762018bd617c2ccb09
 	text-align: center;
+	padding-bottom: .1rem;
 }
 .footer a{
 	width: 4.18rem;
