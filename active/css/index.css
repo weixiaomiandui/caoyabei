@@ -358,6 +358,7 @@ body {
 .footer img{
 	vertical-align: center;
 	width: 4.18rem;
+	padding-bottom:.2rem;
 }
 .footer span {
 	display: inline-block;
