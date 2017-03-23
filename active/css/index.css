@@ -25,7 +25,7 @@ body {
 	line-height: 1.5;
 	font-size: 14px;
 	color: #000;
-	background: #212126;
+	background: #121214;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -342,7 +342,11 @@ body {
 }
 
 .footer {
+<<<<<<< HEAD
 	margin-top: .35rem;
+=======
+	padding-top: .35rem;
+>>>>>>> 874165e15841cb1da57a9892a0e50edc619c4079
 	text-align: center;
 	padding-bottom: .1rem;
 }
