@@ -266,7 +266,7 @@
 /* 5 */
 /***/ function(module, exports) {
 
-	module.exports = "<div class=\"content page2\" id=\"result\">\r\n <img class=\"img-warn\" src=\"/active/img/warn.png\" alt=\"\">\r\n  <div class=\"img-bg\"> \r\n<img  alt=\"\" id=\"showImg\">\r\n </div> \r\n   <canvas id=\"canvas\" height=\"809\" width=\"653\"></canvas>\r\n    <img :src=\"imgSrc\" alt=\"\" id=\"contentImg\">\r\n    <img :src=\"QRSrc\" alt=\"\" id=\"QRSrc\">\r\n</div>\r\n\r\n\r\n";
+	module.exports = "<div class=\"content page2\" id=\"result\">\r\n <img class=\"img-warn\" src=\"/caoyabei/active/img/warn.png\" alt=\"\">\r\n  <div class=\"img-bg\"> \r\n<img  alt=\"\" id=\"showImg\">\r\n </div> \r\n   <canvas id=\"canvas\" height=\"809\" width=\"653\"></canvas>\r\n    <img :src=\"imgSrc\" alt=\"\" id=\"contentImg\">\r\n    <img :src=\"QRSrc\" alt=\"\" id=\"QRSrc\">\r\n</div>\r\n\r\n\r\n";
 
 /***/ },
 /* 6 */
