@@ -25,7 +25,7 @@ body {
 	line-height: 1.5;
 	font-size: 14px;
 	color: #000;
-	background: #121214;
+	background: #212126;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -217,10 +217,11 @@ body {
 .btn {
 	margin: auto;
 	border-radius: .15rem;
-	background: #f23333;
-	box-shadow: 0 .1rem 0 #da5800;
+	background: url(../img/button.png) no-repeat;
+	background-size: 100% 100%;
 }
 .btn1{
+	margin-left: 1%;
 	background: url(../img/a.png) no-repeat;
 	background-size: 100% 100%;
 }
@@ -230,7 +231,7 @@ body {
 	background-size: 100% 100%;
 }
 .btn3{
-	margin-left: 5%;
+	margin-left: 4%;
 	background: url(../img/c.png) no-repeat;
 	background-size: 100% 100%;
 }
@@ -239,9 +240,9 @@ body {
 }
 
 .outside_btn {
-	width: 56%;
 	margin-top: .3rem;
-	height: 1rem;
+	width: 60%;
+	height: 1.2rem;
 }
 .outside_btn p:nth-of-type(1){
 	font-size: .4rem;
@@ -262,7 +263,7 @@ body {
 }
 .page2 {
 	padding-top: .4rem;
-	height: 7.5rem;
+	height: 7.3rem;
 	width: 90%;
 	margin-top: .1rem;
 	text-align: center;
@@ -298,6 +299,12 @@ body {
 	color: #44423f;
 	font-size: .4rem;
 	font-weight: 800;
+}
+.img-bg{
+	height: 100%;
+	width: 100%;
+	background: url(../img/loading.png) no-repeat;
+	background-size: 100% 90%;
 }
 
 .page2 .text .item strong {
@@ -342,11 +349,7 @@ body {
 }
 
 .footer {
-<<<<<<< HEAD
 	margin-top: .35rem;
-=======
-	padding-top: .35rem;
->>>>>>> 874165e15841cb1da57a9892a0e50edc619c4079
 	text-align: center;
 	padding-bottom: .1rem;
 }
