@@ -349,7 +349,11 @@ body {
 }
 
 .footer {
+<<<<<<< HEAD
 	margin-top: .35rem;
+=======
+	padding-top: .35rem;
+>>>>>>> 7aca831a788c15114b60870328c8e78abf550ce8
 	text-align: center;
 	padding-bottom: .1rem;
 }
