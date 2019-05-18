@@ -24,11 +24,17 @@
 		border-radius: 5px;
 	}
 	.box p{
+		color: #ec0b0b;
 		padding-top: 30px;
 		font-weight: bold;
 	}
+	.box h3{
+		color: #ec0b0b;
+		font-weight: bold;
+	}
 	.bottom{
-		margin-top:30px;
+		position: fixed;
+		bottom: 10px;
 		width: 99%;
 		height: 80px;
 
@@ -70,8 +76,9 @@
 @media screen and (max-width:500px){
 	.box{
 		width: 100%;
-		background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
-
+		/*background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);*/
+        background: url("../images/timg.jpeg") no-repeat;
+		background-size: 100% 100%;
 		margin: 0 auto;
 		color: aliceblue;
 		margin: auto;
@@ -87,11 +94,17 @@
 		border-radius: 5px;
 	}
 	.box p{
+		color: #ec0b0b;
 		padding-top: 30px;
 		font-weight: bold;
 	}
+	.box h3{
+		color: #ec0b0b;
+		font-weight: bold;
+	}
 	.bottom{
-		margin-top:3%;
+		position: fixed;
+		bottom: 10px;
 		width: 99%;
 		height: 80px;
 
