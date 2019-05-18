@@ -7,7 +7,7 @@
 @media screen and (min-width:501px){
 	.box{
 		width: 600px;
-		
+
 		/*background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);*/
 		background: url("../images/timg.jpeg") no-repeat;
 		background-size: 100% 100%;
