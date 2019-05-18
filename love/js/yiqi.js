@@ -26,7 +26,6 @@ window.onload=function(){
             alert("工资全上交");
             Dianji=1;
         }
-
     }
     hao.onclick=function(){
         alert("小姐姐终于同意了，爱你的小曹同学");
