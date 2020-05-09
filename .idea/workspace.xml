@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60db7e18-c99b-46b2-9ee5-ce992947a3dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5/js/touch.js" beforeDir="false" afterPath="$PROJECT_DIR$/html5/js/touch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/like/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/like/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/bitbug_favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/images/timg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/js/yiqi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/music/circulation.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love/music/happy.wav" beforeDir="false" />
-    </list>
+    <list default="true" id="60db7e18-c99b-46b2-9ee5-ce992947a3dd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -66,28 +50,18 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1286992099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/like/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/like/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -117,9 +91,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="194" />
-    <option name="y" value="29" />
-    <option name="width" value="1387" />
+    <option name="x" value="427" />
+    <option name="y" value="115" />
+    <option name="width" value="1392" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -128,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +114,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,6 +171,7 @@
       <workItem from="1565100115201" duration="78000" />
       <workItem from="1565100382675" duration="59000" />
       <workItem from="1565100444104" duration="510000" />
+      <workItem from="1589016680939" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="zuixindhhb">
       <created>1526049039570</created>
@@ -237,13 +212,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3596000" />
+    <option name="totallyTimeSpent" value="3648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="23" width="1387" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="427" y="115" width="1392" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10248902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10211524" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,32 +255,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5/js/touch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/like/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/like/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html5/js/touch.js" />
+    <entry file="file://$PROJECT_DIR$/html5/index.html" />
+    <entry file="file://$PROJECT_DIR$/like/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/like/index.html" />
   </component>
 </project>
