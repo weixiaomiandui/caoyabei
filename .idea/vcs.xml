@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Panorama" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/html5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vrRoom" vcs="Git" />
   </component>
 </project>
