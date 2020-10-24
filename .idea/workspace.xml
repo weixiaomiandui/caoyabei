@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60db7e18-c99b-46b2-9ee5-ce992947a3dd" name="Default" comment="zsfsxv">
-      <change beforePath="$PROJECT_DIR$/homePage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homePage/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homePage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homePage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>/static</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>static</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -85,7 +78,7 @@
       <workItem from="1589016926096" duration="308000" />
       <workItem from="1589017238557" duration="225000" />
       <workItem from="1590138905989" duration="3417000" />
-      <workItem from="1603525284221" duration="112000" />
+      <workItem from="1603525284221" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="zuixindhhb">
       <created>1526049039570</created>
@@ -178,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590366985301</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="zsfsxv">
+      <created>1603525404719</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603525404719</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,9 +194,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="zsfsxv" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="267" y="230" key="Vcs.Push.Dialog.v2" timestamp="1603525291666">
+    <state x="615" y="53" key="CommitChangelistDialog2" timestamp="1603525404509">
       <screen x="44" y="23" width="1396" height="877" />
     </state>
-    <state x="267" y="230" key="Vcs.Push.Dialog.v2/44.23.1396.877@44.23.1396.877" timestamp="1603525291666" />
+    <state x="615" y="53" key="CommitChangelistDialog2/44.23.1396.877@44.23.1396.877" timestamp="1603525404509" />
+    <state x="267" y="230" key="Vcs.Push.Dialog.v2" timestamp="1603525450032">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="267" y="230" key="Vcs.Push.Dialog.v2/44.23.1396.877@44.23.1396.877" timestamp="1603525450032" />
   </component>
 </project>
