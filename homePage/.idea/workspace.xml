@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58d33b9-1f0a-46c2-b6be-58427cb86ee3" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/bitbug_favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/images/timg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/js/yiqi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/music/circulation.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../love/music/happy.wav" beforeDir="false" />
-    </list>
+    <list default="true" id="b58d33b9-1f0a-46c2-b6be-58427cb86ee3" name="默认的" comment="默认的" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +33,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,8 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488623083797</updated>
-      <workItem from="1603267294008" duration="39000" />
+      <workItem from="1603267294008" duration="1008000" />
     </task>
+    <task id="LOCAL-00001" summary="默认的">
+      <created>1603267341577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603267341577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +66,19 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认的" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="38" key="CommitChangelistDialog2" timestamp="1603267341269">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="269" y="38" key="CommitChangelistDialog2/43.23.1397.877@43.23.1397.877" timestamp="1603267341269" />
+    <state x="281" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603267348758">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="281" y="201" key="Vcs.Push.Dialog.v2/43.23.1397.877@43.23.1397.877" timestamp="1603267348758" />
   </component>
 </project>
